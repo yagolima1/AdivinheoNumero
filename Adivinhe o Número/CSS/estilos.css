@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #191414;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  padding: 50px;
+  width:  500px;
+  border-radius: 15px;
+}
+
+h1 {
+  margin-bottom: 20px;
+
+}
+
+
+#tentativasMensagem {
+
+  padding-top: 20px;
+  font-size: 25px;
+
+}
+
+button {
+  background-color: #1DB954;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+
+}
+
+input {
+
+  padding: 10px;
+
+}
+
+#resultMessage {
+
+  font-size: 20px;
+  font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
