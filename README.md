@@ -1,4 +1,4 @@
-<div> <img src="/src/Imagens/Projeto.jpg" alt="Print-do-Projeto"> </div>
+
 
 # Adivinhe o Número
 
