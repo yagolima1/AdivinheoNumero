@@ -48,6 +48,12 @@ button {
 
 }
 
+.container button:hover{
+  transition: all 0,3s;
+  cursor: pointer;
+  box-shadow: #191414;
+}
+
 input {
 
   padding: 10px;
