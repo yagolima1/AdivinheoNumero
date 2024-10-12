@@ -1,3 +1,5 @@
+<div> <img src="/src/imagens/Projeto.jpg" alt="Print-do-Projeto"> </div>
+
 # Adivinhe o Número
 
 Este repositório contém o projeto do jogo "Adivinhe o Número", desenvolvido como parte de um desafio de programação. O objetivo é fazer com que o usuário adivinhe um número aleatório entre 1 e 10, oferecendo dicas se o palpite for alto, baixo ou correto.
